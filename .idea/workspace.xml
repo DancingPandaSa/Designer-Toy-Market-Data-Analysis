@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c29d738-e87d-40a9-bee4-00f278479d07" name="Changes" comment="refresh data">
-      <change beforePath="$PROJECT_DIR$/.idea/Designer-Toy-Market-Data-Analysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Designer-Toy-Market-Data-Analysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/表單/form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data/表單/form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/潮玩市場調查_清洗後.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="9c29d738-e87d-40a9-bee4-00f278479d07" name="Changes" comment="表單分析 新增 heatmap" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +45,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heatmap.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -66,8 +63,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
-        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -82,7 +79,9 @@
       <workItem from="1752136270442" duration="1838000" />
       <workItem from="1752220722131" duration="1999000" />
       <workItem from="1752223007894" duration="129000" />
-      <workItem from="1752471288304" duration="322000" />
+      <workItem from="1752471288304" duration="882000" />
+      <workItem from="1752472374985" duration="77000" />
+      <workItem from="1752477774558" duration="2288000" />
     </task>
     <task id="LOCAL-00001" summary="form 整理">
       <option name="closed" value="true" />
@@ -116,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752222610754</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新商品偏好">
+      <option name="closed" value="true" />
+      <created>1752471785557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752471785557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1752471827662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752471827662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,9 +152,12 @@
     <MESSAGE value="form 整理" />
     <MESSAGE value="form" />
     <MESSAGE value="refresh data" />
-    <option name="LAST_COMMIT_MESSAGE" value="refresh data" />
+    <MESSAGE value="更新商品偏好" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Designer_Toy_Market_Data_Analysis$form.coverage" NAME="form Coverage Results" MODIFIED="1752471612750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data/表單" />
+    <SUITE FILE_PATH="coverage/Designer_Toy_Market_Data_Analysis$heatmap.coverage" NAME="heatmap Coverage Results" MODIFIED="1752478317644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data/表單" />
   </component>
 </project>
