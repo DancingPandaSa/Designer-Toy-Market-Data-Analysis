@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全球潮玩IP收入榜</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #fbcfe8 0%, #a78bfa 100%); /* 粉紫漸變背景 */
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1.5rem;
+        }
+        .card-container {
+            background-color: #ffffff;
+            border-radius: 1.5rem; /* 更圓潤 */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); /* 更明顯的陰影 */
+            max-width: 900px;
+            width: 100%;
+            overflow: hidden;
+            border: 2px solid #fbcfe8; /* 邊框增加可愛感 */
+        }
+        .header-section {
+            background: linear-gradient(45deg, #f472b6 0%, #8b5cf6 100%); /* 鮮豔的漸變頭部 */
+            padding: 2rem 1.5rem;
+            text-align: center;
+            color: #ffffff;
+            font-weight: 800; /* 更粗的字體 */
+            font-size: 2.25rem; /* 更大的字體 */
+            line-height: 1.2;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* 文字陰影 */
+            border-bottom: 4px solid #a78bfa; /* 底部加粗邊框 */
+        }
+        .content-section {
+            padding: 2rem 1.5rem;
+            color: #333;
+        }
+        .table-header {
+            background-color: #ffe4e6; /* 淺粉色表頭 */
+            color: #d82b6b; /* 深粉色文字 */
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-size: 0.9rem;
+            border-radius: 0.75rem 0.75rem 0 0; /* 圓角表頭 */
+        }
+        .table-row {
+            border-bottom: 1px solid #fbcfe8; /* 淺粉色分隔線 */
+            transition: background-color 0.2s ease-in-out;
+        }
+        .table-row:last-child {
+            border-bottom: none;
+        }
+        .table-row:hover {
+            background-color: #fce7f6; /* 懸停效果 */
+        }
+        .table-cell {
+            padding: 1rem 1.25rem;
+            vertical-align: middle;
+        }
+        .footer-section {
+            background-color: #f3f4f6;
+            padding: 1rem 1.5rem;
+            text-align: center;
+            font-size: 0.8rem;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            border-bottom-left-radius: 1.5rem;
+            border-bottom-right-radius: 1.5rem;
+        }
+        @media (max-width: 640px) {
+            .header-section {
+                font-size: 1.75rem;
+                padding: 1.5rem 1rem;
+            }
+            .content-section {
+                padding: 1.5rem 1rem;
+            }
+            .table-cell {
+                padding: 0.75rem 1rem;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="card-container">
+        <div class="header-section">
+            全球潮玩IP收入榜 ✨<br/>
+            超人氣跨媒體製作大揭秘！
+        </div>
+
+        <div class="content-section">
+            <p class="mb-6 text-center text-lg font-semibold text-purple-700">
+                探索那些在全球範圍內創造驚人財富、風靡萬千粉絲的頂級跨媒體製作與其代表性收入！
+            </p>
+
+            <div class="overflow-x-auto rounded-xl border border-pink-300">
+                <table class="min-w-full divide-y divide-pink-200">
+                    <thead class="table-header">
+                        <tr>
+                            <th class="table-cell text-left">名稱</th>
+                            <th class="table-cell text-right">估計總收入 (美元)</th>
+                            <th class="table-cell text-left">主要類型</th>
+                            <th class="table-cell text-left">發源地</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-pink-100 text-gray-800">
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Pokémon (寶可夢)</td>
+                            <td class="table-cell text-right">$1200 億+</td>
+                            <td class="table-cell">遊戲、動畫、卡牌、商品</td>
+                            <td class="table-cell">日本</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Hello Kitty (凱蒂貓)</td>
+                            <td class="table-cell text-right">$890 億+</td>
+                            <td class="table-cell">角色、商品、媒體</td>
+                            <td class="table-cell">日本</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Mickey Mouse (米奇老鼠)</td>
+                            <td class="table-cell text-right">$880 億+</td>
+                            <td class="table-cell">角色、動畫、樂園、商品</td>
+                            <td class="table-cell">美國</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Star Wars (星際大戰)</td>
+                            <td class="table-cell text-right">$700 億+</td>
+                            <td class="table-cell">電影、遊戲、商品</td>
+                            <td class="table-cell">美國</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Super Mario (超級瑪利歐)</td>
+                            <td class="table-cell text-right">$410 億+</td>
+                            <td class="table-cell">遊戲、動畫、商品</td>
+                            <td class="table-cell">日本</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Marvel Cinematic Universe (漫威電影宇宙)</td>
+                            <td class="table-cell text-right">$380 億+</td>
+                            <td class="table-cell">電影、漫畫、商品</td>
+                            <td class="table-cell">美國</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Harry Potter (哈利波特)</td>
+                            <td class="table-cell text-right">$350 億+</td>
+                            <td class="table-cell">書籍、電影、樂園、商品</td>
+                            <td class="table-cell">英國</td>
+                        </tr>
+                        <tr class="table-row">
+                            <td class="table-cell font-semibold">Disney Princess (迪士尼公主)</td>
+                            <td class="table-cell text-right">$340 億+</td>
+                            <td class="table-cell">角色、動畫、商品</td>
+                            <td class="table-cell">美國</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <p class="mt-6 text-center text-sm text-gray-600">
+                * 數據為估計值，主要參考維基百科「全球最高跨媒體製作收入列表」及相關公開資料。
+            </p>
+        </div>
+
+        <div class="footer-section">
+            <p>© 2025 潮玩數據分析</p>
+            <p>設計靈感來自潮流玩具的無限創意與可愛魅力！</p>
+        </div>
+    </div>
+</body>
+</html>
