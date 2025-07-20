@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>潮玩風潮數據洞察專案進度</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #fbcfe8 0%, #a78bfa 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 1.5rem;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            max-width: 1000px;
+            width: 100%;
+            overflow: hidden;
+            border: 2px solid #fbcfe8;
+            padding: 2rem;
+        }
+        .section-title {
+            background: linear-gradient(45deg, #f472b6 0%, #8b5cf6 100%);
+            padding: 1rem 1.5rem;
+            text-align: center;
+            color: #ffffff;
+            font-weight: 700;
+            font-size: 1.75rem;
+            border-radius: 0.75rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+        .task-card {
+            background-color: #fce7f6;
+            border-radius: 1rem;
+            padding: 1.25rem;
+            box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.05);
+            margin-bottom: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            border: 1px solid #fbcfe8;
+            transition: transform 0.2s ease-in-out;
+        }
+        .task-card:hover {
+            transform: translateY(-3px);
+        }
+        .person-name {
+            font-weight: 700;
+            color: #d82b6b;
+            font-size: 1.1rem;
+        }
+        .task-description {
+            color: #555;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+        .phase-divider {
+            margin: 2.5rem 0;
+            height: 4px;
+            background: linear-gradient(90deg, #a78bfa 0%, #f472b6 100%);
+            border-radius: 2px;
+        }
+        .next-phase-card {
+            background-color: #e0e7ff;
+            border-radius: 1rem;
+            padding: 1.25rem;
+            box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.05);
+            margin-bottom: 1rem;
+            border: 1px solid #a78bfa;
+            transition: transform 0.2s ease-in-out;
+        }
+        .next-phase-card:hover {
+            transform: translateY(-3px);
+        }
+        .next-phase-title {
+            font-weight: 700;
+            color: #6366f1;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 1.25rem;
+            color: #555;
+            font-size: 0.95rem;
+        }
+        li {
+            margin-bottom: 0.25rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-3xl sm:text-4xl font-extrabold text-center text-gray-800 mb-8">
+            ✨ 潮玩風潮數據洞察專案進度報告 ✨
+        </h1>
+        <p class="text-center text-gray-600 mb-8 text-lg">
+            日期：2025年7月10日 | 指導老師：梁國亮 | 團隊成員：盧宥佑、劉颯、彭思萍、吳婷儒、陳尚億、洪益華
+        </p>
+
+        <div class="section-title">🚀 現階段工作進度 🚀</div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div class="task-card">
+                <div class="person-name">盧宥佑 ✅</div>
+                <div class="task-description">
+                    <ul>
+                        <li>完成PPT整體風格設計。</li>
+                        <li>已完成前言、專案背景、潮玩定義等說明部分。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="task-card">
+                <div class="person-name">吳婷儒 ✅</div>
+                <div class="task-description">
+                    <ul>
+                        <li>整理全球與台灣人口數量與消費數據。</li>
+                        <li>完成電商資料與潮玩市場資料整理。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="task-card">
+                <div class="person-name">劉颯 ✅</div>
+                <div class="task-description">
+                    <ul>
+                        <li>完成迪士尼、任天堂、泡泡瑪特財報與股票資料分析。</li>
+                        <li>製作完整的 Power BI 財報儀表板。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="task-card">
+                <div class="person-name">彭思萍 ✅</div>
+                <div class="task-description">
+                    <ul>
+                        <li>完成簡報內容協助設計與邏輯校對。</li>
+                        <li>支援專案內容分析與呈現方式調整。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="task-card">
+                <div class="person-name">陳尚億 ✅</div>
+                <div class="task-description">
+                    <ul>
+                        <li>完成台灣民調數據整理與 Power BI 製作。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="task-card">
+                <div class="person-name">洪益華 🔄</div>
+                <div class="task-description">
+                    <ul>
+                        <li>進行中：媒體熱度與趨勢資料收集與 Power BI 製作。</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="phase-divider"></div>
+
+        <div class="section-title">🎯 後續工作規劃 🎯</div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div class="next-phase-card">
+                <div class="next-phase-title">媒體熱度與趨勢分析製作</div>
+                <div class="task-description">
+                    <ul>
+                        <li>完成泡泡瑪特、任天堂、迪士尼在台灣與全球媒體的熱度資料整合。</li>
+                        <li>製作成 Power BI 儀表板並加入總報告分析。</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="next-phase-card">
+                <div class="next-phase-title">發表前資料審閱與整合</div>
+                <div class="task-description">
+                    <ul>
+                        <li>統整所有 Power BI 數據與簡報內容。</li>
+                        <li>進行最終資料審查與數據交叉分析。</li>
+                        <li>根據分析結果完成 PPT 最終優化與發表講稿。</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <p class="text-center
