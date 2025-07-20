@@ -1,116 +1,104 @@
-# 🌈潮玩風潮數據洞察專案 🧸
+# 🌈 潮玩風潮：全球與台灣市場數據洞察 🧸  
 
-🌟 專案介紹 - 嘿，歡迎來到潮玩世界！ 🚀
-本專案旨在深入分析全球與台灣的潮流玩具 (Designer Toys / Art Toys) 市場，洞察其發展趨勢、消費者輪廓、熱門品牌及未來潛力。透過數據收集、整理與視覺化，本報告旨在為品牌或投資者制定市場策略提供有價值的參考依據。
+## 🌟 專案介紹 - 嘿，歡迎來到潮玩世界！ 🚀  
 
-核心研究問題：
+這個專案超酷的！我們要一起深入探索全球和台灣的「潮玩」市場，  
+用數據魔法揭開它的神秘面紗、看看大家都在買什麼，還有哪些是未來的潛力股！✨  
 
-全球與台灣潮玩市場的規模與成長趨勢為何？
+🎯 **我們的研究重點地區**：
+- 🇺🇸 美國  
+- 🇯🇵 日本  
+- 🇨🇳 中國  
 
-哪些品牌、IP 或設計師最受歡迎？
+🎯 **研究的三位重量級品牌星探**：
+- 🏰 迪士尼（Disney）  
+- 🎮 任天堂（Nintendo）  
+- 🧸 泡泡瑪特（POP MART）  
 
-消費者的輪廓與偏好有何不同（全球 vs. 台灣）？
+🎯 **台灣市場調查**：  
+我們發出問卷，蒐集了大家的年齡、性別、潮玩購買紀錄、喜愛的IP品牌，  
+再結合人口密度、實體與網路店鋪分布、消費習慣，全面分析台灣市場！
 
-社群媒體與二級市場（如轉售）對潮玩產業的影響？
+---
 
-🎯 分析目的 & 驚喜發現預告！ 🎁
-🔍 我們想搞懂這些：
-全球潮玩大比拼： 深入比較迪士尼、任天堂、泡泡瑪特，看看不同地區的潮玩是怎麼玩、誰最厲害、有哪些秘密策略！
+## 🎯 分析目的 & 驚喜發現預告 🎁  
 
-台灣潮玩小宇宙： 用問卷和各種數據，畫出台灣潮玩買家的臉譜，他們喜歡什麼、怎麼買，通通告訴你！
+### 🔍 我們想搞懂這些：
+- 🌍 **全球潮玩大比拼**：比較各品牌在不同市場的策略與特色
+- 🧑‍🤝‍🧑 **台灣潮玩小宇宙**：了解誰是主力買家、喜好與消費習慣
+- 📈 **市場潛力預測**：預測未來趨勢與熱點
+- 💼 **商業建議**：給品牌與投資人最有價值的洞察建議
 
-市場潛力大預測： 結合全球和台灣的數據洞察，偷偷預測台灣潮玩市場會怎麼發展、未來流行什麼！
+### 💡 預計發現亮點：
+- 各國潮玩文化差異與行銷手法
+- 台灣消費主力輪廓與喜愛IP榜單
+- 線上線下購物偏好與銷售建議
+- 國際品牌在地化策略與台灣本土IP潛力
+- 未來潮玩市場趨勢預測（產品創新、社群行銷、跨界合作）
 
-商業建議大放送： 我們會根據分析結果，給潮玩品牌、店家或想投資的你，一些超實用的建議，讓你輕鬆進入或稱霸台灣潮玩市場！
+---
 
-💡 預計會發現這些有趣的：
-全球潮玩特色差異： 美國、日本、中國的潮玩有什麼不同？他們的產品、行銷、商業模式有什麼獨特之處？這背後是不是藏著不同的文化小秘密呢？
+## 📂 資料來源與取得方式 🕵️‍♀️  
 
-台灣潮玩主力客群揭秘： 誰是台灣潮玩消費的主力軍？他們是哪個年齡層、男生多還是女生多？他們最愛哪些IP、哪種設計，還有都在哪裡買買買？
+### 📊 一手數據：
+- 📝 台灣潮玩市場問卷調查（自行發佈）
 
-線上線下銷售最強攻略： 台灣的潮玩店分佈在哪裡？大家喜歡去實體店還是網購？我們會提供超讚的佈局建議，讓品牌們線上線下都能賣到爆！
+### 📚 二手資料來源：
+- 📄 迪士尼、任天堂、泡泡瑪特的公開財報  
+- 📉 紐約 / 東京 / 香港證券交易所股價  
+- 🌐 各國統計局人口密度數據  
+- 🛍️ 品牌官網、社群、媒體與報導  
+- 🧾 電商平台（蝦皮、Momo、Pinkoi）公開銷售數據  
+- 🗺️ Google Maps + 實地考察收集的店鋪分布資訊
 
-品牌在地化與台灣IP發光發熱： 國際潮玩品牌怎麼才能更接地氣、更受台灣人喜歡？台灣本土的IP在潮玩界有沒有機會大放異彩呢？
+---
 
-未來趨勢神預測： 預測台灣潮玩市場在產品創新、社群行銷、跨界合作等方面的發展方向，為所有潮玩玩家們一些超前部署的指引！
+## 👑 我們的夢幻團隊 🦸‍♀️🦸‍♂️  
 
-💖 資料哪裡來？我們怎麼找的？ 🕵️‍♀️
-📂 資料來源：
-一手獨家！ 台灣潮玩市場消費者問卷調查。
+| 成員 | 任務 |
+|------|------|
+| 盧宥佑 | 台灣人口密度資料分析、簡報設計 |
+| 劉颯 | 專案規劃、消費行為分析、Power BI 報表製作 |
+| 彭思萍 | 課題分析、簡報協力設計 |
+| 洪益華 | 網路熱度數據分析 |
+| 吳婷儒 | 數據整理、資料庫建立 |
+| 陳尚億 | 店舖資料調查、Power BI 視覺化支援 |
 
-二手寶藏！
+---
 
-各公司（迪士尼、任天堂、泡泡瑪特）公開財報。
+## 🗺️ 專案進度與成果展示 ✨  
 
-主要證券交易所（紐約證券交易所、東京證券交易所、香港交易所）股票數據。
+- 📊 **Power BI 製作中！**  
+  數據視覺化魔法師努力中，打造最直觀互動的分析儀表板！
 
-各國統計機構公布之人口密度數據。
+- 🎨 **簡報設計ing！**  
+  高質感簡報正在進行中，讓每頁都充滿潮流與洞察！
 
-品牌官方網站、社群媒體、新聞報導及行業分析報告。
+---
 
-線上電商平台（如蝦皮、Momo、Pinkoi等）銷售數據（公開部分）。
+## 🔗 Power BI 儀表板連結 💥  
 
-線下零售店舖（如百貨公司專櫃、獨立潮玩店）數量與分佈資訊。
+| 主題 | 連結 |
+|------|------|
+| 🏆 全球品牌排名 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 🌍 全球市場數據 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 💰 三大品牌財報 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 📍 實體店鋪分佈 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 🛍️ 台灣消費市場分析 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 📊 台灣民調結果 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 
-🚀 取得方式：
-問卷調查： 線上問卷平台發布與數據收集。
+---
 
-公開財報與股價： 透過公司官方投資者關係網站、金融資訊平台（如Yahoo Finance, Google Finance, Bloomberg, Refinitiv Eikon等）。
+## 📁 更多內容 Coming Soon! 🚧  
 
-人口密度數據： 國家統計局、政府普查機構官方網站。
+🔧 Power BI 互動式儀表板（完整整合）：**[連結即將上線！]**  
+📽️ 專案簡報檔案：**[連結即將上線！]**  
+📂 原始數據與程式碼：**[GitHub Repo 將上線！]**
 
-商店數量： 品牌官方網站、地圖服務（如Google Maps）、線上購物平台、線下實地考察與電話訪查。
+---
 
-消費者傾向與消費情況： 產業研究報告、市場調查公司報告、新聞報導、學術論文、公開數據庫。
+## 💬 一起讓潮玩風潮席捲世界吧！🥳  
 
-👑 我們的夢幻團隊 & 負責項目！ 🦸‍♀️🦸‍♂️
-盧宥佑： PowerPoint發表（部分）的小能手，還有台灣人口密度數據的調查與分析專家！
+感謝你來逛逛我們的專案！如果你有任何建議或想法，歡迎留言或開 issue 告訴我們～  
+💖 Let's Play with Data, Play with Toys! 🎮🧸✨
 
-劉颯： 專案架構的規劃、消費行為數據的搜集與分析，製作Power BI報表。
-
-彭思萍： 課題分析的智囊團，PowerPoint發表（部分）的強力支援！
-
-洪益華： 網路熱度數據搜集與分析。
-
-吳婷儒： 資料整理的整齊控，建立數據庫的守護者！
-
-陳尚億： 線上線下潮玩商店的情報員，製作Power BI報表！
-
-🗺️ 專案進度與成果展示！ ✨
-（這裡可以放上你現在的專案進度，例如：）
-
-Power BI 製作中！ 我們的數據魔法師正在努力將所有數據視覺化，打造一個超直觀的互動報告！敬請期待！
-
-簡報設計ing！ 我們的PowerPoint簡報也正在精心製作中，保證讓大家看得開心又收穫滿滿！
-
-🔗 Power BI 儀表板連結 - 點擊探索潮玩數據宇宙！ 🚀
-以下是本專案相關的 Power BI 數據儀表板連結，您可以點擊查看詳細分析：
-
-🏆 全球排名 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-🌍 全球市場數據 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-💰 三家公司財報與股票數據 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-📍 實體店分佈 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-🛍️ 台灣地區消費 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-📊 台灣民調 Power BI 儀表板：
-https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
-
-🚀 來看看我們的潮玩洞察！點這裡！ 👇
-（等你未來有成果時，可以在這裡貼上連結喔！例如：）
-
-Power BI 互動式儀表板： [連結即將上線！]
-
-完整專案報告簡報： [連結即將上線！]
-
-原始數據與程式碼： [連結至本GitHub Repository中存放數據或程式碼的資料夾]
-
-謝謝你來逛逛我們的專案！💖 如果你有任何想法或建議，都歡迎告訴我們喔！一起讓潮玩風潮席捲世界吧！🥳
