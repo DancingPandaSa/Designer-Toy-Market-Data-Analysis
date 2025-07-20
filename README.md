@@ -67,26 +67,26 @@
 ## 🗺️ 專案進度與成果展示！ ✨
 ---
 （這裡可以放上你現在的專案進度，例如：）
-* **數據收集階段進行中！**
+* **PowerBI製作中！**
 * Power BI 儀表板連結
 以下是本專案相關的 Power BI 數據儀表板連結，您可以點擊查看詳細分析：
 
-全球排名 Power BI 儀表板：
+*全球排名 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 
-全球市場數據 Power BI 儀表板：
+*全球市場數據 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 
-三家公司財報與股票數據 Power BI 儀表板：
+*三家公司財報與股票數據 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 
-實體店分佈 Power BI 儀表板：
+*實體店分佈 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 
-台灣地區消費 Power BI 儀表板：
+*台灣地區消費 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 
-台灣民調 Power BI 儀表板：
+*台灣民調 Power BI 儀表板：
 https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 * **Power BI儀表板籌備中！** 準備將所有數據視覺化，打造一個超直觀的互動報告！敬請期待！
 * **簡報設計ing！** 我們的PowerPoint簡報也正在精心製作中，保證讓大家看得開心又收穫滿滿！
