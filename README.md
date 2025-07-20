@@ -56,18 +56,38 @@
 ---
 
 * **盧宥佑：** PowerPoint發表（部分）的小能手，還有台灣人口密度數據的調查與分析專家！
-* **劉颯：** 專案架構的規劃師、消費行為數據的搜集與分析大師，Power BI報表和PowerPoint設計的藝術家！
+* **劉颯：** 專案架構的規劃、消費行為數據的搜集與分析，製作Power BI報表。
 * **彭思萍：** 課題分析的智囊團，PowerPoint發表（部分）的強力支援！
-* **洪益華：** 後端數據處理的魔術師，廣告媒體相關資料的搜集達人！
+* **洪益華：** 網路熱度數據搜集與分析。
 * **吳婷儒：** 資料整理的整齊控，建立數據庫的守護者！
-* **陳尚億：** 線上線下潮玩商店的情報員，Power BI報表設計和PowerPoint資料整理的小幫手！
+* **陳尚億：** 線上線下潮玩商店的情報員，製作Power BI報表！
 
 ---
 
 ## 🗺️ 專案進度與成果展示！ ✨
 ---
 （這裡可以放上你現在的專案進度，例如：）
-* **數據收集階段進行中！** 我們正在努力匯集所有一手和二手數據，準備好讓它們說故事！
+* **數據收集階段進行中！**
+* Power BI 儀表板連結
+以下是本專案相關的 Power BI 數據儀表板連結，您可以點擊查看詳細分析：
+
+全球排名 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
+
+全球市場數據 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
+
+三家公司財報與股票數據 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
+
+實體店分佈 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
+
+台灣地區消費 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
+
+台灣民調 Power BI 儀表板：
+https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9
 * **Power BI儀表板籌備中！** 準備將所有數據視覺化，打造一個超直觀的互動報告！敬請期待！
 * **簡報設計ing！** 我們的PowerPoint簡報也正在精心製作中，保證讓大家看得開心又收穫滿滿！
 
