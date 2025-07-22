@@ -85,6 +85,7 @@
 | 💰 三大品牌財報 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🏰 Disney 財報+股票+營收結構 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiY2Q0MjE1MzYtYmYxZC00ZjExLWI1YTMtZTk3MTFkYWEzZGU0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🎮 Nintendo 財報+股票+營收結構 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiNzM1NzQ0NTItMDdlMy00YjAzLTliZmQtMDczOGM2MDVlNTFhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 🎁 PopMart 財報+股票+營收結構 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZTI5N2IyNTgtYjZkMy00YjBjLTk1Y2UtOTI1NWFmZDhjNGRmIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 📍 實體店鋪分佈 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🛍️ 台灣消費市場分析 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 📊 台灣民調結果 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
