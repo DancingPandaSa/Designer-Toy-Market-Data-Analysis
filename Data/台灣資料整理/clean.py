@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('台灣各地區消費娛樂性產品.csv')
+df = pd.read_csv('台灣性別消費娛樂性產品.csv')
 df = df.rename(columns={
     '1.食品及非酒精飲料' : '食品食品及非酒精飲料',
     '2.菸酒及檳榔' : '菸酒及檳榔',
@@ -20,7 +20,26 @@ df = df.rename(columns={
     '(3)書報雜誌文具': '書報雜誌文具',
     '(4)教育消遣康樂器材及其附屬品': '教育消遣康樂器材及其附屬品'
 })
-# 分類維度表
+# 性別維度表
+data = {
+    'genderID' : ['1','2'],
+    'gender' : ['男性','女性']
+}
+
+dim_gender = pd.DataFrame(data)
+dim_gender.to_csv('dim_gender.csv',index=False)
+
+# 年齡維度表
+data = {
+    'AgeID' : ['1','2','3','4','5','6','7'],
+    'Age' : ['未滿30歲','30～34歲','35～39歲','40～44歲','45～54歲','55～64歲','65歲及以上']
+}
+
+dim_age = pd.DataFrame(data)
+dim_age.to_csv('dim_age.csv',index=False)
+
+
+# 地區分類維度表
 # main_categories_raw = [
 #     '食品及非酒精飲料',
 #     '菸酒與及檳榔',
@@ -94,12 +113,12 @@ df = df.rename(columns={
 #     print(f"\n注意：以下地區未被分類到任何區域，請檢查您的地區列表: {unclassified_regions}")
 # df.to_csv("台灣各地區消費娛樂性產品.csv", index=False, encoding='utf-8')
 
-Region = df['地區'].unique().tolist()
-data = {
-    'RegionID' : list(range(1, len(Region) + 1)),
-    'RegionName' : Region
-}
-dim_region = pd.DataFrame(data)
-dim_region.to_csv('dim_region.csv', index=False)
+# Region = df['地區'].unique().tolist()
+# data = {
+#     'RegionID' : list(range(1, len(Region) + 1)),
+#     'RegionName' : Region
+# }
+# dim_region = pd.DataFrame(data)
+# dim_region.to_csv('dim_region.csv', index=False)
 
 
