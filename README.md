@@ -83,10 +83,11 @@
 | 🏆 全球品牌排名 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🌍 全球市場數據 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 💰 三大品牌財報 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
+| 🏰 Disney 財報+股票+營收結構 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiY2Q0MjE1MzYtYmYxZC00ZjExLWI1YTMtZTk3MTFkYWEzZGU0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 📍 實體店鋪分佈 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🛍️ 台灣消費市場分析 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 📊 台灣民調結果 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
-
+| 🧚‍♀️粉絲數量增幅  | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOTM1MWY0MmEtMjY5YS00ZGM3LTkxNWEtOWY4N2JiZTg3OTQyIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 ---
 
 ## 📁 更多內容 Coming Soon! 🚧  
