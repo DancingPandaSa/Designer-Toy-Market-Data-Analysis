@@ -27,7 +27,7 @@
         }
         .slide {
             background-color: #ffffff; /* White background for each slide */
-            padding: 3rem 4rem; /* Generous padding */
+            padding: 2.5rem 4rem; /* Generous padding, adjusted top padding to move content up */
             border-radius: 1.5rem; /* Rounded corners */
             box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1); /* Prominent shadow */
             margin-bottom: 2rem; /* Space between slides */
@@ -45,14 +45,14 @@
 
         /* Title styling */
         h1 {
-            font-size: 4.5rem; /* Very large title */
+            font-size: 5rem; /* Increased font size */
             font-weight: 800; /* Extra bold */
             color: #4c51bf; /* Deep indigo */
             margin-bottom: 2rem;
             line-height: 1.2;
         }
         h2 {
-            font-size: 3rem; /* Large section titles */
+            font-size: 3.5rem; /* Increased font size */
             font-weight: 700;
             color: #4f46e5; /* Indigo */
             margin-bottom: 1.5rem;
@@ -99,11 +99,11 @@
         /* Responsive adjustments */
         @media (max-width: 1024px) {
             .slide {
-                padding: 2.5rem 3rem;
+                padding: 2rem 3rem; /* Adjusted responsive padding */
                 min-height: 60vh;
             }
-            h1 { font-size: 3.5rem; }
-            h2 { font-size: 2.5rem; }
+            h1 { font-size: 4rem; } /* Adjusted responsive font size */
+            h2 { font-size: 3rem; } /* Adjusted responsive font size */
             h3 { font-size: 1.8rem; }
             p, li { font-size: 1.2rem; }
         }
@@ -114,8 +114,8 @@
                 min-height: auto; /* Allow height to adjust */
                 margin-bottom: 1.5rem;
             }
-            h1 { font-size: 2.8rem; margin-bottom: 1.5rem; }
-            h2 { font-size: 2rem; margin-bottom: 1rem; }
+            h1 { font-size: 3rem; margin-bottom: 1.5rem; } /* Adjusted responsive font size */
+            h2 { font-size: 2.5rem; margin-bottom: 1rem; } /* Adjusted responsive font size */
             h3 { font-size: 1.5rem; margin-top: 1rem; margin-bottom: 0.8rem; }
             p, li { font-size: 1rem; line-height: 1.6; }
             .slide-content { max-width: none; } /* Remove max-width on small screens */
@@ -130,7 +130,7 @@
                 <h1>潮玩風潮：全球與台灣市場數據洞察</h1>
                 <p class="text-xl font-semibold text-gray-700">數據分析專題報告</p>
                 <div class="mt-8 text-xl font-medium text-gray-600">
-                    <p>團隊成員：盧宥佑、劉颯、彭思萍、吳婷儒、陳尚億、洪益華</p>
+                    <p>團隊成員：吳婷儒、劉颯、陳尚億、盧宥佑、彭思萍、洪益華</p>
                     <p>指導老師：梁國亮</p>
                     <p></p>
                     <p>日期：2025年8月</p>
@@ -169,10 +169,10 @@
                     本專題旨在深入剖析全球與台灣的潮流玩具（潮玩）市場，透過數據分析揭示其發展趨勢、消費者行為及潛在商機。
                 </p>
                 <p class="text-lg leading-relaxed">
-                    我們將以美國、日本、中國三個主要市場為切入點，選取迪士尼（Disney）、任天堂（Nintendo）和泡泡瑪特（POP MART）三家代表性公司作為研究範例，對其財務報告、股價表現、企業規模及產品類別進行對比分析，以描繪全球潮玩產業的宏觀圖景。
+                    我們將以美國、日本、中國三個主要市場為切入點，選取迪士尼（Disney）、任天堂（Nintendo）和泡泡瑪特（PopMart）三家代表性公司作為研究範例，對其財務報告、股價表現、企業營收規模及產品類別進行對比分析，以描繪全球潮玩產業的宏觀圖景。
                 </p>
                 <p class="text-lg leading-relaxed mt-4">
-                    在此基礎上，本專題將聚焦台灣潮玩市場。我們已透過問卷調查，收集了台灣民眾的基本資訊（地區、年齡、性別）、潮玩購買經驗及偏好品牌IP等一手數據。結合對台灣人口密度、相關品牌實體與線上商店數量、消費者傾向及消費行為等二手數據的蒐集與分析，我們將全面評估台灣潮玩市場的現況與潛力，並探討其與全球市場的異同。
+                    在此基礎上，本專題將聚焦台灣潮玩市場。我們已透過問卷調查，收集了台灣民眾的基本資訊（年齡、性別、職業等）、潮玩購買經驗及偏好品牌IP等一手數據。結合對台灣人口、相關品牌實體與線上商店數量、消費者傾向及消費行為等二手數據的蒐集與分析，我們將全面評估台灣潮玩市場的現況與潛力，並探討其與全球市場的異同。
                 </p>
             </div>
         </section>
@@ -183,20 +183,22 @@
         <section class="slide slide-purple">
             <div class="slide-content">
                 <h2>研究架構與流程</h2>
-                <div class="flex flex-col items-center justify-center space-y-6 mt-8">
-                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-sm">
+                <div class="flex flex-col items-center justify-center space-y-8 mt-8">
+                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-lg text-center">
                         全球潮玩市場分析 (美、日、中)
+                        <p class="text-base font-normal mt-2 text-gray-600">對於美國Disney，日本Nintendo，中國PopMart 三家公司的財報，股票和營收結構做了分析和比較。</p>
                     </div>
                     <svg class="w-12 h-12 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
-                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-sm">
+                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-lg text-center">
                         台灣潮玩市場數據蒐集 (民調與二手數據)
+                        <p class="text-base font-normal mt-2 text-center text-gray-600">台灣地區消費數據按照地區，年齡，性別數據分析和比較。</p>
                     </div>
                     <svg class="w-12 h-12 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
-                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-sm">
+                    <div class="bg-indigo-100 text-indigo-800 p-4 rounded-lg shadow-md text-xl font-semibold w-full max-w-lg text-center">
                         綜合分析與比較
                     </div>
                     <svg class="w-12 h-12 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path></svg>
-                    <div class="bg-indigo-600 text-white p-4 rounded-lg shadow-lg text-xl font-semibold w-full max-w-sm">
+                    <div class="bg-indigo-600 text-white p-4 rounded-lg shadow-lg text-xl font-semibold w-full max-w-lg text-center">
                         結論與策略建議
                     </div>
                 </div>
@@ -216,7 +218,7 @@
                     <li>二手數據：
                         <ul class="list-circle list-indent mt-2">
                             <li>公司公開財報、股票數據。</li>
-                            <li>各國人口密度和消費數據。</li>
+                            <li>各國以及台灣地區人口密度和消費數據。</li>
                             <li>品牌官方網站、社群媒體、行業報告。</li>
                             <li>線上電商平台銷售數據、線下零售店舖資訊。</li>
                         </ul>
@@ -227,7 +229,7 @@
                 <ul class="list-disc pl-5 text-lg">
                     <li>問卷調查： 線上問卷平台。</li>
                     <li>公開財報與股價： 公司投資者關係網站、金融資訊平台。</li>
-                    <li>人口密度數據： 國家統計局、政府普查機構。</li>
+                    <li>人口密度和消費數據： 國家統計局、政府普查機構。</li>
                     <li>商店數量： 品牌官網、地圖服務、線上電商。</li>
                     <li>消費者傾向與消費情況： 產業研究報告、市場調查、公開數據庫。</li>
                 </ul>
