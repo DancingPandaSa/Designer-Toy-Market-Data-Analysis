@@ -89,7 +89,7 @@
 | 📍 實體店鋪分佈 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMTNkMzVlZWUtOTJiYy00MjM5LTkxNDgtNzQ5ZTBiMzNkOGIwIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🛍️ 台灣消費市場分析 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZGUzMzc2MTUtMzc0Yi00ZTM5LWJiMzItM2Q5MjAzMWRmZTNkIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 📊 台灣民調結果 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiNTgwM2VkMGUtNTJjNy00M2RhLTllZjktNzk2YjQ1ZGFkMTBhIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
-| 📊 台灣消費 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMmY5ZmU1NDctZDNjMi00NjgxLTg1NDQtODlkYTYxMmQxNjM5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9）
+| 📊 台灣消費 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiMmY5ZmU1NDctZDNjMi00NjgxLTg1NDQtODlkYTYxMmQxNjM5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9）|
 | 🧚‍♀️粉絲數量增幅與搜索量 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOWRiZGU0OTEtNzhhMC00OTM3LWE3NDktY2MxZGIyYTgwNTYzIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 
 ---
