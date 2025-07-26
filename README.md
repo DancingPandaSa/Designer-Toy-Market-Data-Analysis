@@ -80,6 +80,7 @@
 
 | 主題 | 連結 |
 |------|------|
+| 🏆🌍📍 全球IP排名+市場規模+門店 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOTMwYzJmNWMtNzhmYy00NWFiLTkwMjItMjVkZGQ4ZjBjNzZlIiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🏆 全球品牌排名 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiOTUyZGRhZDUtNDBkYy00MDM0LWJmMzAtZDAxYTYzOTRkN2I0IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 🌍 全球市場數據 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiZmYzMzMwMDctNWI1ZC00OTNmLWI2MjEtYzc4N2ViMDNkYWE1IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
 | 💰 三大品牌財報 | [點我查看](https://app.powerbi.com/view?r=eyJrIjoiYjhlNjUyOWYtZGM3Yi00YjcyLWIxNjktOWM1ZmJlMzg4OWI5IiwidCI6ImM3ODIzYzk2LWFmNDgtNGJlNC05YmUxLWFhN2I2MDEyMTk5NyIsImMiOjZ9) |
